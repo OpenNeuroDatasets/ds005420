@@ -1,0 +1,13 @@
+{
+    "Name": "Resting state EEG with closed eyes and open eyes in females from 60 to 80 years old",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Miriam de Jesús Sánchez Gama",
+        "Luis Alberto Barradas Chacón",
+        "Leticia Chacón Gutiérrez",
+        "Thalía Fernández Harmony",
+        "Carlos Augusto Novo Olivas",
+        "José María De La Roca Chiapas"
+        ]
+}
